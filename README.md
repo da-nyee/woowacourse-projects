@@ -29,3 +29,21 @@
 |Project |Repository |Pull Request |
 |:------:|:---------:|:-----------:|
 |지하철 노선도 경로 조회 미션|[java-subway-path-precourse](https://github.com/da-nyee/java-subway-path-precourse/tree/da-nyee)|[Pull Request](https://github.com/woowacourse/java-subway-path-precourse/pull/11)|
+
+<br/>
+
+## 🧩 Level 1 : TDD, OOP, 리팩토링, 클린 코드
+### 기간
+- 2021.02.03 –
+
+### 학습 목표
+- 자바 프로그래밍 언어에 대한 기본 문법을 익혀 프로그래밍하는 경험을 한다.
+- 읽기 좋은 코드를 구현하는 것이 왜 중요한지와 코드를 개선해 읽기 좋은 코드로 변경해 보는 경험을 한다.
+- 자신이 구현한 코드에 대해 단위 테스트와 리팩토링하는 경험을 한다.
+- 웹 프론트엔드에서 웹 백엔드까지 프로그래밍해 웹 애플리케이션을 개발하는 경험을 한다.
+
+### 진행 미션
+|Project |Repository |Pull Request |
+|:------:|:---------:|:-----------:|
+|자동차 경주 게임/step1|[java-racingcar/step1](https://github.com/da-nyee/java-racingcar/tree/step1)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/184)|
+|자동차 경주 게임/step2|[java-racingcar/step2](https://github.com/da-nyee/java-racingcar/tree/step2)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/237)|
