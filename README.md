@@ -47,3 +47,4 @@
 |:------:|:---------:|:-----------:|
 |자동차 경주 게임/step1|[java-racingcar/step1](https://github.com/da-nyee/java-racingcar/tree/step1)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/184)|
 |자동차 경주 게임/step2|[java-racingcar/step2](https://github.com/da-nyee/java-racingcar/tree/step2)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/237)|
+|로또/step1|[java-lotto/step1](https://github.com/da-nyee/java-lotto/tree/step1)|[Pull Request](https://github.com/woowacourse/java-lotto/pull/248)|
