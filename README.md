@@ -43,8 +43,8 @@
 - 웹 프론트엔드에서 웹 백엔드까지 프로그래밍해 웹 애플리케이션을 개발하는 경험을 한다.
 
 ### 진행 미션
-|Project |Repository |Pull Request |
-|:------:|:---------:|:-----------:|
-|자동차 경주 게임/step1|[java-racingcar/step1](https://github.com/da-nyee/java-racingcar/tree/step1)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/184)|
-|자동차 경주 게임/step2|[java-racingcar/step2](https://github.com/da-nyee/java-racingcar/tree/step2)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/237)|
-|로또/step1|[java-lotto/step1](https://github.com/da-nyee/java-lotto/tree/step1)|[Pull Request](https://github.com/woowacourse/java-lotto/pull/248)|
+|Project |Repository |Pull Request |Pair |
+|:------:|:---------:|:-----------:|:---:|
+|자동차 경주 게임/step1|[java-racingcar/step1](https://github.com/da-nyee/java-racingcar/tree/step1)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/184)|[중간곰](https://github.com/ggyool)|
+|자동차 경주 게임/step2|[java-racingcar/step2](https://github.com/da-nyee/java-racingcar/tree/step2)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/237)| |
+|로또/step1|[java-lotto/step1](https://github.com/da-nyee/java-lotto/tree/step1)|[Pull Request](https://github.com/woowacourse/java-lotto/pull/248)|[김김](https://github.com/tributetothemoon)|
