@@ -1,4 +1,4 @@
-# ☄ woowacourse-projects
+# 🚀 woowacourse-projects
 
 <p align="center">
     <img src='./img/techcourse_poster_3nd.jpg' width="50%">
