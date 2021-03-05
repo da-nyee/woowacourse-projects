@@ -49,3 +49,4 @@
 |자동차 경주 게임/step2|[java-racingcar/step2](https://github.com/da-nyee/java-racingcar/tree/step2)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/237)| |
 |로또/step1|[java-lotto/step1](https://github.com/da-nyee/java-lotto/tree/step1)|[Pull Request](https://github.com/woowacourse/java-lotto/pull/248)|[김김](https://github.com/tributetothemoon)|
 |로또/step2|[java-lotto/step2](https://github.com/da-nyee/java-lotto/tree/step2)|[Pull Request](https://github.com/woowacourse/java-lotto/pull/322)| |
+|블랙잭/step1|[java-blackjack/step1](https://github.com/da-nyee/java-blackjack/tree/step1)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/139)|[아마찌](https://github.com/NewWisdom)|
