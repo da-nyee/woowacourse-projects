@@ -57,3 +57,4 @@
 - [[Java] 문자열 (String)](https://da-nyee.github.io/posts/java-string/)
 - [[우아한테크코스] 코드 테스트가 중요한 이유 (Why code testing is important)](https://da-nyee.github.io/posts/woowa-course-why-code-testing-is-important/)
 - [[Java] HashMap vs LinkedHashMap](https://da-nyee.github.io/posts/java-hashmap-vs-likedhashmap/)
+- [[Java] flatMap으로 중첩 루프 없애는 방법 (How to remove nested loops using flatMap)](https://da-nyee.github.io/posts/java-how-to-remove-nested-loops-using-flatmap/)
