@@ -4,7 +4,7 @@
     <img src='./img/techcourse_poster_3nd.jpg' width="50%">
 </p>
 
-> 우아한테크코스 3기에서 학습한 내용을 정리하는 저장소
+> [우아한테크코스](https://woowacourse.github.io/) 3기에서 학습한 내용을 정리하는 저장소
 
 <br/>
 
@@ -50,6 +50,7 @@
 |로또/step1|[java-lotto/step1](https://github.com/da-nyee/java-lotto/tree/step1)|[Pull Request](https://github.com/woowacourse/java-lotto/pull/248)|[김김](https://github.com/tributetothemoon)|
 |로또/step2|[java-lotto/step2](https://github.com/da-nyee/java-lotto/tree/step2)|[Pull Request](https://github.com/woowacourse/java-lotto/pull/322)| |
 |블랙잭/step1|[java-blackjack/step1](https://github.com/da-nyee/java-blackjack/tree/step1)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/139)|[아마찌](https://github.com/NewWisdom)|
+|블랙잭/step2|[java-blackjack/step2](https://github.com/da-nyee/java-blackjack/tree/step2)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/211)| |
 
 ### 블로그 포스팅
 - [[Design Pattern] SOLID 원칙 (SOLID Principles)](https://da-nyee.github.io/posts/design-pattern-solid-principles/)
