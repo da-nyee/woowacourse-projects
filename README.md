@@ -51,6 +51,7 @@
 |로또/step2|[java-lotto/step2](https://github.com/da-nyee/java-lotto/tree/step2)|[Pull Request](https://github.com/woowacourse/java-lotto/pull/322)| |[코니](https://github.com/choihz)|
 |블랙잭/step1|[java-blackjack/step1](https://github.com/da-nyee/java-blackjack/tree/step1)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/139)|[아마찌](https://github.com/NewWisdom)|[미립](https://github.com/seok-2-o)|
 |블랙잭/step2|[java-blackjack/step2](https://github.com/da-nyee/java-blackjack/tree/step2)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/211)| |[미립](https://github.com/seok-2-o)|
+|Java 8 Lambda, Stream API|[java-study/da-nyee](https://github.com/da-nyee/java-study/tree/da-nyee)| | | |
 
 ### 블로그 포스팅
 - [[Design Pattern] SOLID 원칙 (SOLID Principles)](https://da-nyee.github.io/posts/design-pattern-solid-principles/)
