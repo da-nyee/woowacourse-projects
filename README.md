@@ -62,3 +62,11 @@
 - [[Java] HashMap vs LinkedHashMap](https://da-nyee.github.io/posts/java-hashmap-vs-likedhashmap/)
 - [[Java] flatMap으로 중첩 루프 없애는 방법 (How to remove nested loops using flatMap)](https://da-nyee.github.io/posts/java-how-to-remove-nested-loops-using-flatmap/)
 - [[우아한테크코스] 싱글톤 패턴은 객체지향적일까? (Is the singleton pattern object-oriented?)](https://da-nyee.github.io/posts/woowa-course-is-the-singleton-pattern-object-oriented/)
+
+<br/>
+
+## 📝 Writing : 글쓰기 코스
+### 진행 미션
+|Level |Topic |Repository |Pull Request |Reviewer |
+|:----:|:----:|:---------:|:-----------:|:-------:|
+|1 - 기록|우아한테크코스 한 달 생활기|[woowa-writing-3/da-nyee/LEVEL1.md](https://github.com/da-nyee/woowa-writing-3/blob/da-nyee/LEVEL1.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/53)|[포코](https://github.com/devJang)|
