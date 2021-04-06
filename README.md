@@ -19,6 +19,9 @@
 |자동차 경주 게임|[java-racingcar-precourse](https://github.com/da-nyee/java-racingcar-precourse/tree/da-nyee)|[Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/260)|
 |지하철 노선도 미션|[java-subway-map-precourse](https://github.com/da-nyee/java-subway-map-precourse/tree/da-nyee)|[Pull Request](https://github.com/woowacourse/java-subway-map-precourse/pull/95)|
 
+### 블로그 포스팅
+- [[우아한테크코스] 우아한테크코스 프리코스 회고](https://da-nyee.github.io/posts/woowa-course-precourse-retrospective/)
+
 <br/>
 
 ## 🔮 Level 0.5 : 최종 코딩 테스트
@@ -29,6 +32,9 @@
 |Project |Repository |Pull Request |
 |:------:|:---------:|:-----------:|
 |지하철 노선도 경로 조회 미션|[java-subway-path-precourse](https://github.com/da-nyee/java-subway-path-precourse/tree/da-nyee)|[Pull Request](https://github.com/woowacourse/java-subway-path-precourse/pull/11)|
+
+### 블로그 포스팅
+- [[우아한테크코스] 우아한테크코스 최종 코딩 테스트 회고](https://da-nyee.github.io/posts/woowa-course-final-coding-test-retrospective/)
 
 <br/>
 
