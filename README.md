@@ -60,6 +60,7 @@
 |Java 8 Lambda, Stream API|[java-study/da-nyee](https://github.com/da-nyee/java-study/tree/da-nyee)| | | |
 |체스/step1|[java-chess/step1](https://github.com/da-nyee/java-chess/tree/step1)|[Pull Request](https://github.com/woowacourse/java-chess/pull/193)|[검프](https://github.com/Livenow14)|[휴](https://github.com/Hue9010)|
 |체스/step2|[java-chess/step2](https://github.com/da-nyee/java-chess/tree/step2)|[Pull Request](https://github.com/woowacourse/java-chess/pull/258)| |[휴](https://github.com/Hue9010)|
+|투두리스트/step1|[js-todo-list-step1/da-nyee](https://github.com/da-nyee/js-todo-list-step1/tree/da-nyee)|[Pull Request](https://github.com/woowacourse/js-todo-list-step1/pull/11)| | |
 
 ### 블로그 포스팅
 - [[Design Pattern] SOLID 원칙 (SOLID Principles)](https://da-nyee.github.io/posts/design-pattern-solid-principles/)
