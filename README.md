@@ -38,7 +38,7 @@
 
 <br/>
 
-## 🧩 Level 1 : TDD, OOP, 리팩토링, 클린 코드
+## 🧩 Level 1 : TDD, OOP, Refactoring, Clean Code
 ### 기간
 - 2021.02.03 – 2021.04.02
 
@@ -73,6 +73,17 @@
 - [[우아한테크코스] SQL 퀴즈 및 정답 (SQL Quizzes and Answers)](https://da-nyee.github.io/posts/woowa-course-sql-quizzes-and-answers/)
 - [[우아한테크코스] 우아한테크코스 한 달 생활기](https://da-nyee.github.io/posts/woowa-course-writing-level1/)
 - [[Java] try-with-resources](https://da-nyee.github.io/posts/java-try-with-resources/)
+
+<br/>
+
+## 🌿 Level 2 : Spring Framework, Deployment, Infrastructure
+### 기간
+- 2021.04.13 –
+
+### 진행 미션
+|Project |Repository |Pull Request |Pair |Reviewer |
+|:------:|:---------:|:-----------:|:---:|:-------:|
+|체스/step1|[jwp-chess/step1](https://github.com/da-nyee/jwp-chess/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-chess/pull/234)|[파피](https://github.com/TaewanKimmmm)|[김고래](https://github.com/ep1stas1s)|
 
 <br/>
 
