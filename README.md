@@ -78,7 +78,7 @@
 
 ## 🌿 Level 2 : Spring Framework, Deployment, Infrastructure
 ### 기간
-- 2021.04.13 –
+- 2021.04.13 – 2021.06.04
 
 ### 진행 미션
 |Project |Repository |Pull Request |Pair |Reviewer |
