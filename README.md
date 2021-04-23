@@ -73,6 +73,7 @@
 - [[우아한테크코스] SQL 퀴즈 및 정답 (SQL Quizzes and Answers)](https://da-nyee.github.io/posts/woowa-course-sql-quizzes-and-answers/)
 - [[우아한테크코스] 우아한테크코스 한 달 생활기](https://da-nyee.github.io/posts/woowa-course-writing-level1/)
 - [[Java] try-with-resources](https://da-nyee.github.io/posts/java-try-with-resources/)
+- [[우아한테크코스] 다니의 학습 로그 - 레벨 1](https://da-nyee.github.io/posts/woowa-course-learning-log-level1/)
 
 <br/>
 
