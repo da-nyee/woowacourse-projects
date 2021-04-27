@@ -85,6 +85,7 @@
 |Project |Repository |Pull Request |Pair |Reviewer |
 |:------:|:---------:|:-----------:|:---:|:-------:|
 |체스/step1|[jwp-chess/step1](https://github.com/da-nyee/jwp-chess/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-chess/pull/234)|[파피](https://github.com/TaewanKimmmm)|[김고래](https://github.com/ep1stas1s)|
+|체스/step2|[jwp-chess/step2](https://github.com/da-nyee/jwp-chess/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-chess/pull/299)| |[김고래](https://github.com/ep1stas1s)|
 
 <br/>
 
