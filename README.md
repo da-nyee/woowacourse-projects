@@ -87,6 +87,8 @@
 |체스/step1|[jwp-chess/step1](https://github.com/da-nyee/jwp-chess/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-chess/pull/234)|[파피](https://github.com/TaewanKimmmm)|[김고래](https://github.com/ep1stas1s)|
 |체스/step2|[jwp-chess/step2](https://github.com/da-nyee/jwp-chess/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-chess/pull/299)| |[김고래](https://github.com/ep1stas1s)|
 |지하철 노선도 관리/step1|[atdd-subway-map/step1](https://github.com/da-nyee/atdd-subway-map/tree/step1)|[Pull Request](https://github.com/woowacourse/atdd-subway-map/pull/77)|[코다](https://github.com/yjksw)|[닉](https://github.com/wbluke)|
+|지하철 노선도 관리/step2|[atdd-subway-map/step2](https://github.com/da-nyee/atdd-subway-map/tree/step2)|[Pull Request](https://github.com/woowacourse/atdd-subway-map/pull/141)|[코다](https://github.com/yjksw)|[닉](https://github.com/wbluke)|
+|경로 조회 / 로그인/step1|[atdd-subway-path/step1](https://github.com/da-nyee/atdd-subway-path/tree/step1)|[Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/57)|[크로플](https://github.com/perenok)|[게이츠](https://github.com/serverwizard)|
 
 ### 블로그 포스팅
 - [[Java] String vs StringBuffer vs StringBuilder](https://da-nyee.github.io/posts/java-string-vs-stringbuffer-vs-stringbuilder/)
