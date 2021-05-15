@@ -108,3 +108,4 @@
 
 ## 📖 Javable : 우아한테크코스 코드리뷰 모음 공간
 ### 활동 내용
+- [웹 MVC 각 컴포넌트 역할](https://woowacourse.github.io/javable/post/2021-04-26-mvc/)
