@@ -97,6 +97,8 @@
 - [[우아한테크코스] 배포 퀴즈 및 정답 (Deployment Quizzes and Answers)](https://da-nyee.github.io/posts/woowa-course-deployment-quizzes-and-answers/)
 - [[우아한테크코스] 운영 퀴즈 및 정답 (Operation Quizzes and Answers)](https://da-nyee.github.io/posts/woowa-course-operation-quizzes-and-answers/)
 - [[Spring] HandlerMethodArgumentResolver](https://da-nyee.github.io/posts/spring-handlermethodargumentresolver/)
+- [[Spring] Bean Validation](https://da-nyee.github.io/posts/spring-bean-validation/)
+- [[Spring] Interceptor - CORS Issue](https://da-nyee.github.io/posts/spring-interceptor-cors-issue/)
 
 <br/>
 
