@@ -101,6 +101,8 @@
 - [[Spring] Bean Validation](https://da-nyee.github.io/posts/spring-bean-validation/)
 - [[Spring] Interceptor - CORS Issue](https://da-nyee.github.io/posts/spring-interceptor-cors-issue/)
 - [[Linux] netstat 명령어 (netstat Command)](https://da-nyee.github.io/posts/linux-commands/)
+- [[Linux] pidof 명령어 (pidof Command)](https://da-nyee.github.io/posts/linux-pidof-command/)
+- [[Network] L2 오류 제어 vs L4 오류 제어 (L2 Error Handling vs L4 Error Handling)](https://da-nyee.github.io/posts/network-l2-error-handlingvs-l4-error-handling/)
 
 <br/>
 
