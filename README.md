@@ -106,6 +106,7 @@
 - [[우아한테크코스] 기본 생성자가 필요한 이유 (Why the default constructor is needed) (feat. Jackson ObjectMapper + Reflection)](https://da-nyee.github.io/posts/woowa-course-why-the-default-constructor-is-needed/)
 - [[Spring] JdbcTemplate queryForObject() - Return Value Issue](https://da-nyee.github.io/posts/spring-jdbctemplate-queryForObject-return-value-issue/)
 - [[Java] Gradle Dependency Configurations](https://da-nyee.github.io/posts/java-gradle-dependency-configurations/)
+- [[우아한테크코스] 다니의 학습 로그 - 레벨 2](https://da-nyee.github.io/posts/woowa-course-learning-log-level2/)
 
 <br/>
 
