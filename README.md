@@ -105,6 +105,13 @@
 - [[Network] L2 오류 제어 vs L4 오류 제어 (L2 Error Handling vs L4 Error Handling)](https://da-nyee.github.io/posts/network-l2-error-handlingvs-l4-error-handling/)
 - [[우아한테크코스] 기본 생성자가 필요한 이유 (Why the default constructor is needed) (feat. Jackson ObjectMapper + Reflection)](https://da-nyee.github.io/posts/woowa-course-why-the-default-constructor-is-needed/)
 - [[Spring] JdbcTemplate queryForObject() - Return Value Issue](https://da-nyee.github.io/posts/spring-jdbctemplate-queryForObject-return-value-issue/)
+- [[Java] Gradle Dependency Configurations](https://da-nyee.github.io/posts/java-gradle-dependency-configurations/)
+
+<br/>
+
+## 🌈 Level 3 : Team Project
+### 기간
+- 2021.06.22 – 2021.08.13
 
 <br/>
 
