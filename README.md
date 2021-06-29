@@ -125,8 +125,8 @@
 
 <br/>
 
-## 📖 Javable : 우아한테크코스 코드리뷰 모음 공간
+## 📖 Tecoble : 우아한테크코스 코드리뷰 모음 공간
 ### 활동 내용
-- [웹 MVC 각 컴포넌트 역할](https://woowacourse.github.io/javable/post/2021-04-26-mvc/)
-- [DTO vs VO vs Entity](https://woowacourse.github.io/javable/post/2021-05-16-dto-vs-vo-vs-entity/)
-- [단위 테스트 vs 통합 테스트 vs 인수 테스트](https://woowacourse.github.io/javable/post/2021-05-25-unit-test-vs-integration-test-vs-acceptance-test/)
+- [웹 MVC 각 컴포넌트 역할](https://woowacourse.github.io/tecoble/post/2021-04-26-mvc/)
+- [DTO vs VO vs Entity](https://woowacourse.github.io/tecoble/post/2021-05-16-dto-vs-vo-vs-entity/)
+- [단위 테스트 vs 통합 테스트 vs 인수 테스트](https://woowacourse.github.io/tecoble/post/2021-05-25-unit-test-vs-integration-test-vs-acceptance-test/)
