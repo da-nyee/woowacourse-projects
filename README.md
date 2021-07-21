@@ -117,6 +117,9 @@
 ### 진행 프로젝트
 - [깃-들다 (PickGit)](https://github.com/woowacourse-teams/2021-pick-git)
 
+### 활동 내용
+- [프로젝트 1차 데모 - 서비스 최종 기획, 팀 문화](https://www.youtube.com/watch?v=kMf7Zt5NEnI)
+
 <br/>
 
 ## 📝 Writing : 글쓰기 코스
