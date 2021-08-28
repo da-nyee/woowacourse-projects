@@ -71,7 +71,6 @@
 - [[Java] flatMap으로 중첩 루프 없애는 방법 (How to remove nested loops using flatMap)](https://da-nyee.github.io/posts/java-how-to-remove-nested-loops-using-flatmap/)
 - [[우아한테크코스] 싱글톤 패턴은 객체지향적일까? (Is the singleton pattern object-oriented?)](https://da-nyee.github.io/posts/woowa-course-is-the-singleton-pattern-object-oriented/)
 - [[우아한테크코스] SQL 퀴즈 및 정답 (SQL Quizzes and Answers)](https://da-nyee.github.io/posts/woowa-course-sql-quizzes-and-answers/)
-- [[우아한테크코스] 우아한테크코스 한 달 생활기](https://da-nyee.github.io/posts/woowa-course-writing-level1/)
 - [[Java] try-with-resources](https://da-nyee.github.io/posts/java-try-with-resources/)
 - [[우아한테크코스] 다니의 학습 로그 - 레벨 1](https://da-nyee.github.io/posts/woowa-course-learning-log-level1/)
 
@@ -122,11 +121,23 @@
 - [프로젝트 2차 데모 - 이슈 및 완료 목록, 브랜치 전략, API 설계, 배포 자동화, 어플리케이션 데모 (발표자)](https://www.youtube.com/watch?v=2tsH6a-CFlQ&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
 - [프로젝트 3차 데모 - 이슈 및 완료 목록, 로깅 전략, API 문서화, 테스트 자동화, 도메인 연결, 어플리케이션 데모](https://www.youtube.com/watch?v=VOSoIIGjdI8&t=325s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
 
+### 블로그 포스팅
+- [[Spring] Spring MVC 흐름 (Spring MVC Flow)](https://da-nyee.github.io/posts/spring-spring-mvc-flow/)
+- [[Spring] @SpringBootTest vs @DataJpaTest](https://da-nyee.github.io/posts/spring-springboottest-vs-datajpatest/)
+- [[Java] HashMap vs HashSet](https://da-nyee.github.io/posts/java-hashmap-vs-hashset/)
+- [[Network] OAuth 2.0 흐름 (OAuth 2.0 Flow)](https://da-nyee.github.io/posts/network-oauth2.0-flow/)
+- [[Git] Git Branch 전략 (Git Branch Strategy)](https://da-nyee.github.io/posts/git-git-branch-strategy/)
+- [[DevOps] SonarQube + JaCoCo](https://da-nyee.github.io/posts/devops-sonarqube-jacoco/)
+
 <br/>
 
 ## 🪄 Level 4 : HTTP Server, MVC Framework, JDBC Template
 ### 기간
 - 2021.08.24 –
+
+### 진행 미션
+|Project |Repository |Pull Request |Reviewer |
+|:------:|:---------:|:-----------:|:-------:|
 
 <br/>
 
