@@ -138,6 +138,8 @@
 ### 진행 미션
 |Project |Repository |Pull Request |Reviewer |
 |:------:|:---------:|:-----------:|:-------:|
+|HTTP 서버 구현하기/step1|[jwp-dashboard-http/step1](https://github.com/da-nyee/jwp-dashboard-http/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/29)|[조엘](https://github.com/PapimonLikelion)|
+|HTTP 서버 구현하기/step2|[jwp-dashboard-http/step2](https://github.com/da-nyee/jwp-dashboard-http/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/88)|[조엘](https://github.com/PapimonLikelion)|
 
 <br/>
 
