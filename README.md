@@ -120,6 +120,7 @@
 - [프로젝트 1차 데모 - 서비스 최종 기획, 팀 문화](https://www.youtube.com/watch?v=kMf7Zt5NEnI)
 - [프로젝트 2차 데모 - 이슈 및 완료 목록, 브랜치 전략, API 설계, 배포 자동화, 어플리케이션 데모 (발표자)](https://www.youtube.com/watch?v=2tsH6a-CFlQ&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
 - [프로젝트 3차 데모 - 이슈 및 완료 목록, 로깅 전략, API 문서화, 테스트 자동화, 도메인 연결, 어플리케이션 데모](https://www.youtube.com/watch?v=VOSoIIGjdI8&t=325s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
+- [프로젝트 4차 데모 - 이슈 및 완료 목록, 성능 리포트, 정적 분석 리포트, CloudWatch Logs 대시보드, 어플리케이션 데모](https://www.youtube.com/watch?v=dcPXY9-t4D8&t=447s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
 
 ### 블로그 포스팅
 - [[Spring] Spring MVC 흐름 (Spring MVC Flow)](https://da-nyee.github.io/posts/spring-spring-mvc-flow/)
