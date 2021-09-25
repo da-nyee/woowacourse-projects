@@ -148,6 +148,8 @@
 - [[Network] REST와 RESTful (REST and RESTful)](https://da-nyee.github.io/posts/network-rest-restful/)
 - [[Java] Arrays.sort() vs Collections.sort()](https://da-nyee.github.io/posts/java-arrays-sort-vs-collections-sort/)
 - [[Network] Nginx에 HTTP 2.0을 적용하는 방법 (How to set up Nginx with HTTP 2.0)](https://da-nyee.github.io/posts/network-how-to-set-up-nginx-with-http2.0/)
+- [[Real MySQL] 05. 트랜잭션과 잠금](https://da-nyee.github.io/posts/real-mysql-05/)
+- [[Web] 웹 성능 테스트 (Web Performance Testing)](https://da-nyee.github.io/posts/web-web-performance-testing/)
 
 <br/>
 
