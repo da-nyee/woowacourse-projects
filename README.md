@@ -99,7 +99,7 @@
 - [[Spring] HandlerMethodArgumentResolver](https://da-nyee.github.io/posts/spring-handlermethodargumentresolver/)
 - [[Spring] Bean Validation](https://da-nyee.github.io/posts/spring-bean-validation/)
 - [[Spring] Interceptor - CORS Issue](https://da-nyee.github.io/posts/spring-interceptor-cors-issue/)
-- [[Linux] netstat 명령어 (netstat Command)](https://da-nyee.github.io/posts/linux-commands/)
+- [[Linux] netstat 명령어 (netstat Command)](https://da-nyee.github.io/posts/linux-netstat-command/)
 - [[Linux] pidof 명령어 (pidof Command)](https://da-nyee.github.io/posts/linux-pidof-command/)
 - [[Network] L2 오류 제어 vs L4 오류 제어 (L2 Error Handling vs L4 Error Handling)](https://da-nyee.github.io/posts/network-l2-error-handlingvs-l4-error-handling/)
 - [[우아한테크코스] 기본 생성자가 필요한 이유 (Why the default constructor is needed) (feat. Jackson ObjectMapper + Reflection)](https://da-nyee.github.io/posts/woowa-course-why-the-default-constructor-is-needed/)
@@ -143,6 +143,7 @@
 |HTTP 서버 구현하기/step2|[jwp-dashboard-http/step2](https://github.com/da-nyee/jwp-dashboard-http/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/88)|[조엘](https://github.com/PapimonLikelion)|
 |MVC 프레임워크 구현하기/step1|[jwp-dashboard-mvc/step1](https://github.com/da-nyee/jwp-dashboard-mvc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/41)|[중간곰](https://github.com/ggyool)|
 |MVC 프레임워크 구현하기/step2|[jwp-dashboard-mvc/step2](https://github.com/da-nyee/jwp-dashboard-mvc/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/85)|[중간곰](https://github.com/ggyool)|
+|JDBC 라이브러리 구현하기/step1|[jwp-dashboard-jdbc/step1](https://github.com/da-nyee/jwp-dashboard-jdbc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/19)|[피카](https://github.com/pika96)|
 
 ### 블로그 포스팅
 - [[Network] REST와 RESTful (REST and RESTful)](https://da-nyee.github.io/posts/network-rest-restful/)
