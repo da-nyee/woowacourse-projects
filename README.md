@@ -114,7 +114,11 @@
 - 2021.06.22 – 2021.08.13
 
 ### 진행 프로젝트
-- [깃-들다 (PickGit)](https://github.com/woowacourse-teams/2021-pick-git)
+- [깃-들다 (Pick-Git)](https://github.com/woowacourse-teams/2021-pick-git)
+
+### 산출물
+- [웹 사이트](https://pick-git.com/)
+- [기술 블로그](https://2021-pick-git.github.io/)
 
 ### 활동 내용
 - [프로젝트 1차 데모 - 서비스 최종 기획, 팀 문화](https://www.youtube.com/watch?v=kMf7Zt5NEnI)
@@ -151,6 +155,7 @@
 - [[Network] Nginx에 HTTP 2.0을 적용하는 방법 (How to set up Nginx with HTTP 2.0)](https://da-nyee.github.io/posts/network-how-to-set-up-nginx-with-http2.0/)
 - [[Real MySQL] 05. 트랜잭션과 잠금](https://da-nyee.github.io/posts/real-mysql-05/)
 - [[Web] 웹 성능 테스트 (Web Performance Testing)](https://da-nyee.github.io/posts/web-web-performance-testing/)
+- [[Database] DB Replication을 구성한 이유 (Why DB Replication is set up)](https://da-nyee.github.io/posts/why-db-replication-is-set-up/)
 
 <br/>
 
