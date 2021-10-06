@@ -121,6 +121,11 @@
 - [기술 블로그](https://2021-pick-git.github.io/)
 
 ### 활동 내용
+#### 기여
+- [이슈](https://github.com/woowacourse-teams/2021-pick-git/issues?q=is%3Aissue+is%3Aclosed+assignee%3Ada-nyee)
+- [PR](https://github.com/woowacourse-teams/2021-pick-git/pulls?q=is%3Apr+is%3Aclosed+assignee%3Ada-nyee)
+
+#### 발표
 - [프로젝트 1차 데모 - 서비스 최종 기획, 팀 문화](https://www.youtube.com/watch?v=kMf7Zt5NEnI)
 - [프로젝트 2차 데모 - 이슈 및 완료 목록, 브랜치 전략, API 설계, 배포 자동화, 어플리케이션 데모 (발표자)](https://www.youtube.com/watch?v=2tsH6a-CFlQ&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
 - [프로젝트 3차 데모 - 이슈 및 완료 목록, 로깅 전략, API 문서화, 테스트 자동화, 도메인 연결, 어플리케이션 데모](https://www.youtube.com/watch?v=VOSoIIGjdI8&t=325s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
@@ -170,7 +175,8 @@
 <br/>
 
 ## 📖 Tecoble : 우아한테크코스 코드리뷰 모음 공간
-### 활동 내용 - 글
+### 활동 내용
+#### 글
 - [웹 MVC 각 컴포넌트 역할](https://woowacourse.github.io/tecoble/post/2021-04-26-mvc/)
 - [DTO vs VO vs Entity](https://woowacourse.github.io/tecoble/post/2021-05-16-dto-vs-vo-vs-entity/)
 - [단위 테스트 vs 통합 테스트 vs 인수 테스트](https://woowacourse.github.io/tecoble/post/2021-05-25-unit-test-vs-integration-test-vs-acceptance-test/)
@@ -179,6 +185,6 @@
 - [git submodule로 중요한 정보 관리하기](https://woowacourse.github.io/tecoble/post/2021-07-31-git-submodule/)
 - [JPA CascadeType.REMOVE vs orphanRemoval = true](https://woowacourse.github.io/tecoble/post/2021-08-15-jpa-cascadetype-remove-vs-orphanremoval-true/)
 
-### 활동 내용 - 개선
+#### 개선
 - [도메인 주소 변경](https://github.com/woowacourse/tecoble/pull/548)
 - [리뷰어 매칭 프로그램 개발](https://github.com/dusdn1702/tecoble-match-reviewer)
