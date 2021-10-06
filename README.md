@@ -170,7 +170,7 @@
 <br/>
 
 ## 📖 Tecoble : 우아한테크코스 코드리뷰 모음 공간
-### 활동 내용
+### 활동 내용 - 글
 - [웹 MVC 각 컴포넌트 역할](https://woowacourse.github.io/tecoble/post/2021-04-26-mvc/)
 - [DTO vs VO vs Entity](https://woowacourse.github.io/tecoble/post/2021-05-16-dto-vs-vo-vs-entity/)
 - [단위 테스트 vs 통합 테스트 vs 인수 테스트](https://woowacourse.github.io/tecoble/post/2021-05-25-unit-test-vs-integration-test-vs-acceptance-test/)
@@ -178,3 +178,7 @@
 - [DispatcherServlet - Part 2](https://woowacourse.github.io/tecoble/post/2021-07-15-dispatcherservlet-part-2/)
 - [git submodule로 중요한 정보 관리하기](https://woowacourse.github.io/tecoble/post/2021-07-31-git-submodule/)
 - [JPA CascadeType.REMOVE vs orphanRemoval = true](https://woowacourse.github.io/tecoble/post/2021-08-15-jpa-cascadetype-remove-vs-orphanremoval-true/)
+
+### 활동 내용 - 개선
+- [도메인 주소 변경](https://github.com/woowacourse/tecoble/pull/548)
+- [리뷰어 매칭 프로그램 개발](https://github.com/dusdn1702/tecoble-match-reviewer)
