@@ -161,6 +161,7 @@
 - [[Real MySQL] 05. 트랜잭션과 잠금](https://da-nyee.github.io/posts/real-mysql-05/)
 - [[Web] 웹 성능 테스트 (Web Performance Testing)](https://da-nyee.github.io/posts/web-web-performance-testing/)
 - [[Database] DB Replication을 구성한 이유 (Why DB Replication is set up)](https://da-nyee.github.io/posts/why-db-replication-is-set-up/)
+- [[우아한테크코스] 인덱스 (Indexes)](https://da-nyee.github.io/posts/woowa-course-indexes/)
 
 <br/>
 
