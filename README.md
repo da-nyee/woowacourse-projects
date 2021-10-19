@@ -153,6 +153,7 @@
 |MVC 프레임워크 구현하기/step1|[jwp-dashboard-mvc/step1](https://github.com/da-nyee/jwp-dashboard-mvc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/41)|[중간곰](https://github.com/ggyool)|
 |MVC 프레임워크 구현하기/step2|[jwp-dashboard-mvc/step2](https://github.com/da-nyee/jwp-dashboard-mvc/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/85)|[중간곰](https://github.com/ggyool)|
 |JDBC 라이브러리 구현하기/step1|[jwp-dashboard-jdbc/step1](https://github.com/da-nyee/jwp-dashboard-jdbc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/19)|[피카](https://github.com/pika96)|
+|조회 성능 개선하기/step1|[sql-tuning/step1](https://github.com/da-nyee/sql-tuning/tree/step1)|[Pull Request](https://github.com/woowacourse/sql-tuning/pull/27)|[검프](https://github.com/Livenow14)|
 
 ### 블로그 포스팅
 - [[Network] REST와 RESTful (REST and RESTful)](https://da-nyee.github.io/posts/network-rest-restful/)
@@ -172,10 +173,11 @@
 |1 - 기록|우아한테크코스 한 달 생활기|[woowa-writing-3/da-nyee/LEVEL1.md](https://github.com/da-nyee/woowa-writing-3/blob/da-nyee/LEVEL1.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/53)|[포코](https://github.com/devJang)|
 |2 - 성장|우테코에서 찾은<br/>나만의 효과적인 공부법|[woowa-writing-3/da-nyee/LEVEL2.md](https://github.com/da-nyee/woowa-writing-3/blob/level2/LEVEL2.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/118)|[워니](https://github.com/Wonmi91)|
 |3 - 회고|팀 프로젝트가 나에게 남긴 것|[woowa-writing-3/da-nyee/LEVEL3.md](https://github.com/da-nyee/woowa-writing-3/blob/level3/LEVEL3.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/217)|[공원](https://github.com/woowapark)|
+|4 - 시작|내가 꿈꾸는 프로그래머로서의 삶|[woowa-writing-3/da-nyee/LEVEL4.md](https://github.com/da-nyee/woowa-writing-3/blob/level4/LEVEL4.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/300)|[준](https://github.com/wmakerjun)|
 
 <br/>
 
-## 📖 Tecoble : 우아한테크코스 코드리뷰 모음 공간
+## 📖 Tecoble : 우아한테크코스 코드 리뷰 모음 공간
 ### 활동 내용
 #### 글
 - [웹 MVC 각 컴포넌트 역할](https://woowacourse.github.io/tecoble/post/2021-04-26-mvc/)
@@ -190,3 +192,10 @@
 #### 개선
 - [도메인 주소 변경](https://github.com/woowacourse/tecoble/pull/548)
 - [리뷰어 매칭 프로그램 개발](https://github.com/dusdn1702/tecoble-match-reviewer)
+
+
+<br/>
+
+## 🎙 Tecotalk : 우아한테크코스 지식 공유 모음 공간
+### 활동 내용
+- [[10분 테코톡] 🍭 다니의 HTTPS](https://www.youtube.com/watch?v=wPdH7lJ8jf0&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
