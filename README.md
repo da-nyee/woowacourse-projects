@@ -163,6 +163,7 @@
 - [[Web] 웹 성능 테스트 (Web Performance Testing)](https://da-nyee.github.io/posts/web-web-performance-testing/)
 - [[Database] DB Replication을 구성한 이유 (Why DB Replication is set up)](https://da-nyee.github.io/posts/why-db-replication-is-set-up/)
 - [[우아한테크코스] 인덱스 (Indexes)](https://da-nyee.github.io/posts/woowa-course-indexes/)
+- [[Database] M1(ARM)에서 Embedded Redis를 사용하는 방법 (How to use Embedded Redis on M1(ARM))](https://da-nyee.github.io/posts/how-to-use-embedded-redis-on-m1-arm/)
 
 <br/>
 
@@ -173,7 +174,7 @@
 |1 - 기록|우아한테크코스 한 달 생활기|[woowa-writing-3/da-nyee/LEVEL1.md](https://github.com/da-nyee/woowa-writing-3/blob/da-nyee/LEVEL1.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/53)|[포코](https://github.com/devJang)|
 |2 - 성장|우테코에서 찾은<br/>나만의 효과적인 공부법|[woowa-writing-3/da-nyee/LEVEL2.md](https://github.com/da-nyee/woowa-writing-3/blob/level2/LEVEL2.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/118)|[워니](https://github.com/Wonmi91)|
 |3 - 회고|팀 프로젝트가 나에게 남긴 것|[woowa-writing-3/da-nyee/LEVEL3.md](https://github.com/da-nyee/woowa-writing-3/blob/level3/LEVEL3.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/217)|[공원](https://github.com/woowapark)|
-|4 - 시작|내가 꿈꾸는 프로그래머로서의 삶|[woowa-writing-3/da-nyee/LEVEL4.md](https://github.com/da-nyee/woowa-writing-3/blob/level4/LEVEL4.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/300)|[준](https://github.com/wmakerjun)|
+|4 - 시작|내가 꿈꾸는<br/>프로그래머로서의 삶|[woowa-writing-3/da-nyee/LEVEL4.md](https://github.com/da-nyee/woowa-writing-3/blob/level4/LEVEL4.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/300)|[준](https://github.com/wmakerjun)|
 
 <br/>
 
