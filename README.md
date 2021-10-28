@@ -154,6 +154,7 @@
 |MVC 프레임워크 구현하기/step2|[jwp-dashboard-mvc/step2](https://github.com/da-nyee/jwp-dashboard-mvc/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/85)|[중간곰](https://github.com/ggyool)|
 |JDBC 라이브러리 구현하기/step1|[jwp-dashboard-jdbc/step1](https://github.com/da-nyee/jwp-dashboard-jdbc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/19)|[피카](https://github.com/pika96)|
 |조회 성능 개선하기/step1|[sql-tuning/step1](https://github.com/da-nyee/sql-tuning/tree/step1)|[Pull Request](https://github.com/woowacourse/sql-tuning/pull/27)|[검프](https://github.com/Livenow14)|
+|레거시 코드 리팩터링/step1|[jwp-refactoring/step1](https://github.com/da-nyee/jwp-refactoring/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/117)|[에어](https://github.com/KJunseo)|
 
 ### 블로그 포스팅
 - [[Network] REST와 RESTful (REST and RESTful)](https://da-nyee.github.io/posts/network-rest-restful/)
