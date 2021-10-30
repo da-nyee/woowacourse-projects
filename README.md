@@ -111,7 +111,7 @@
 
 ## 🌈 Level 3 : Team Project
 ### 기간
-- 2021.06.22 – 2021.08.13
+- 2021.06.22 – 2021.10.29
 
 ### 진행 프로젝트
 - [깃-들다 (Pick-Git)](https://github.com/woowacourse-teams/2021-pick-git)
@@ -119,6 +119,7 @@
 ### 산출물
 - [웹 사이트](https://pick-git.com/)
 - [기술 블로그](https://2021-pick-git.github.io/)
+- [데모데이 페이지](https://sites.google.com/woowahan.com/wooteco-demo-3rd/%EA%B9%83-%EB%93%A4%EB%8B%A4?authuser=0)
 
 ### 활동 내용
 #### 기여
@@ -130,6 +131,7 @@
 - [프로젝트 2차 데모 - 이슈 및 완료 목록, 브랜치 전략, API 설계, 배포 자동화, 어플리케이션 데모 (발표자)](https://www.youtube.com/watch?v=2tsH6a-CFlQ&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
 - [프로젝트 3차 데모 - 이슈 및 완료 목록, 로깅 전략, API 문서화, 테스트 자동화, 도메인 연결, 어플리케이션 데모](https://www.youtube.com/watch?v=VOSoIIGjdI8&t=325s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
 - [프로젝트 4차 데모 - 이슈 및 완료 목록, 성능 리포트, 정적 분석 리포트, CloudWatch Logs 대시보드, 어플리케이션 데모](https://www.youtube.com/watch?v=dcPXY9-t4D8&t=447s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
+- [프로젝트 5차 데모 - 성능 테스트 및 개선, 새로운 기능, 어플리케이션 데모](https://www.youtube.com/watch?v=06esvMK9oY0&t=429s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
 
 ### 블로그 포스팅
 - [[Spring] Spring MVC 흐름 (Spring MVC Flow)](https://da-nyee.github.io/posts/spring-spring-mvc-flow/)
@@ -143,7 +145,7 @@
 
 ## 🪄 Level 4 : HTTP Server, MVC Framework, JDBC Template
 ### 기간
-- 2021.08.24 – 2021.10.28
+- 2021.08.24 – 2021.10.29
 
 ### 진행 미션
 |Project |Repository |Pull Request |Reviewer |
@@ -165,6 +167,7 @@
 - [[Database] DB Replication을 구성한 이유 (Why DB Replication is set up)](https://da-nyee.github.io/posts/why-db-replication-is-set-up/)
 - [[우아한테크코스] 인덱스 (Indexes)](https://da-nyee.github.io/posts/woowa-course-indexes/)
 - [[Database] M1(ARM)에서 Embedded Redis를 사용하는 방법 (How to use Embedded Redis on M1(ARM))](https://da-nyee.github.io/posts/how-to-use-embedded-redis-on-m1-arm/)
+- [[Git] Tagging으로 버전 관리하기 (Tagging for Version Control)](https://da-nyee.github.io/posts/git-tagging-for-version-control/)
 
 <br/>
 
