@@ -168,6 +168,7 @@
 - [[우아한테크코스] 인덱스 (Indexes)](https://da-nyee.github.io/posts/woowa-course-indexes/)
 - [[Database] M1(ARM)에서 Embedded Redis를 사용하는 방법 (How to use Embedded Redis on M1(ARM))](https://da-nyee.github.io/posts/how-to-use-embedded-redis-on-m1-arm/)
 - [[Git] Tagging으로 버전 관리하기 (Tagging for Version Control)](https://da-nyee.github.io/posts/git-tagging-for-version-control/)
+- [[Database] DB Replication 데이터 정합성 문제 (DB Replication Data Consistency Issue)](https://da-nyee.github.io/posts/db-replication-data-consistency-issue/)
 
 <br/>
 
