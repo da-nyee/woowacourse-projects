@@ -195,6 +195,7 @@
 - [git submodule로 중요한 정보 관리하기](https://woowacourse.github.io/tecoble/post/2021-07-31-git-submodule/)
 - [JPA CascadeType.REMOVE vs orphanRemoval = true](https://woowacourse.github.io/tecoble/post/2021-08-15-jpa-cascadetype-remove-vs-orphanremoval-true/)
 - [커버링 인덱스](https://tecoble.techcourse.co.kr/post/2021-10-12-covering-index/)
+- [Flyway](https://tecoble.techcourse.co.kr/post/2021-10-23-flyway/)
 
 #### 개선
 - [도메인 주소 변경](https://github.com/woowacourse/tecoble/pull/548)
