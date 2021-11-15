@@ -182,6 +182,9 @@
 |3 - 회고|팀 프로젝트가<br/>나에게 남긴 것|[woowa-writing-3/LEVEL3.md](https://github.com/da-nyee/woowa-writing-3/blob/level3/LEVEL3.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/217)|[공원](https://github.com/woowapark)|
 |4 - 시작|내가 꿈꾸는<br/>프로그래머로서의 삶|[woowa-writing-3/LEVEL4.md](https://github.com/da-nyee/woowa-writing-3/blob/level4/LEVEL4.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/300)|[준](https://github.com/wmakerjun)|
 
+### 비고
+- ['내가 꿈꾸는 프로그래머로서의 삶' 우승작 선정 - 우아한형제들 기술 블로그 게시](https://techblog.woowahan.com/6401/)
+
 <br/>
 
 ## 📖 Tecoble : 우아한테크코스 코드 리뷰 모음 공간
