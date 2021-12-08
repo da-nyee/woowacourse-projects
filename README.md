@@ -170,7 +170,19 @@
 - [[Database] M1(ARM)에서 Embedded Redis를 사용하는 방법 (How to use Embedded Redis on M1(ARM))](https://da-nyee.github.io/posts/how-to-use-embedded-redis-on-m1-arm/)
 - [[Git] Tagging으로 버전 관리하기 (Tagging for Version Control)](https://da-nyee.github.io/posts/git-tagging-for-version-control/)
 - [[Database] DB Replication 데이터 정합성 문제 (DB Replication Data Consistency Issue)](https://da-nyee.github.io/posts/db-replication-data-consistency-issue/)
+
+<br/>
+
+## 🎞 Level 5 : Self-Study
+### 기간
+- 2021.11.01 – 2021.11.26
+
+### 모의 면접
+- 가능한 한 매일 진행하고 개인 저장소에 정리
+
+### 블로그 포스팅
 - [[Java] POJO](https://da-nyee.github.io/posts/java-pojo/)
+- [[우아한테크코스] 우아한객체지향 - Part 1](https://da-nyee.github.io/posts/woowacourse-woowaoop-part-1/)
 
 <br/>
 
