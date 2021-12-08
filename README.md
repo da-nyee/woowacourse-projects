@@ -183,6 +183,7 @@
 ### 블로그 포스팅
 - [[Java] POJO](https://da-nyee.github.io/posts/java-pojo/)
 - [[우아한테크코스] 우아한객체지향 - Part 1](https://da-nyee.github.io/posts/woowacourse-woowaoop-part-1/)
+- [[우아한테크코스] 우아한객체지향 - Part 3](https://da-nyee.github.io/posts/woowacourse-woowaoop-part-3/)
 
 <br/>
 
